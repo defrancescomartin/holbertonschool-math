@@ -1,4 +1,12 @@
 #include "main.h"
+#include <stdio.h>
+
+/**
+ * display_complex_number - displays the complex numbers
+ * followed by a new line.
+ * @c: struct
+ * Return: nothing.
+ */
 
 void display_complex_number(complex c)
 {
